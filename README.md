@@ -14,7 +14,7 @@ Caso utilizar sem VBCABLE, será necessário modificar o script.
 * Dolby Atmos (via Microsoft Store)
 * SoundVolumeView
 * Voicemeeter Banana
-* VBCABLE
+* VBCABLE 
 
 ## Configurações no Voicemeeter
 * Hardware Out: apenas CABLE Input (VBCABLE) e o CABLE Output direciona para a saída de áudio desejada com Dolby Atmos (KZ D-FI ou outro headset).
@@ -26,3 +26,13 @@ Caso utilizar sem VBCABLE, será necessário modificar o script.
 ## Arquitetura do Áudio no PC
 
 ![Diagrama Arquitetura Audio](./etc/arquitetura-audio.png)
+
+### Outputs (Fones de ouvido, headsets ou alto-falantes)
+
+1. Apenas o Voicemeeter Input como saída padrão. No Voicemeeter, está configurado o CABLE Input como Hardware Out A1. 
+2. Automaticamente o VBCABLE direciona o áudio do CABLE Input para o CABLE Output.
+3. Por scripts, é alternada a escuta do CABLE Output para os fones (KZ D-FI, headset Corsair ou outro fone).
+4. Como alternativa, podemos alternar para os alto-falantes do monitor ou outra saída de áudio.
+
+### Inputs (Microfones)
+1. Apenas é definido o Voicemeeter Out B1 como padrão de entrada de áudio. E no próprio aplicativo do Voicemeeter, adicionamos os 3 microfones (KZ D-FI, Corsair ou Fifine) e apenas desmutamos o que utilizarmos.
