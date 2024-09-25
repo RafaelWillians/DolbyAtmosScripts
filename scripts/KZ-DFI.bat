@@ -1,3 +1,5 @@
+
+
 @echo off
 
 SoundVolumeView /SetDefault "Voicemeeter Input" all
