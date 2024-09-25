@@ -2,7 +2,7 @@
 
 Scripts para alternar o Dolby Atmos entre dispositivos - apenas para Windows.
 
-Dolby Atmos requer licença e apenas é possível atribuir a um único canal de áudio físico. Testado com Voicemeeter e infelizmente não foi possível atribuir a ele, somente ao dispositivo de saída físico.
+Dolby Atmos requer licença e apenas é possível atribuir a um único canal de áudio físico. Testado com Voicemeeter e infelizmente não foi possível atribuir a ele para então ir ao sistema todo, somente ao dispositivo de saída físico.
 
 Essa é uma configuração pessoal, pois pode não ser necessário ter o VBCABLE instalado.
 Porém me agradou mais direcionar para ele, em vez de diretamente para a saída de áudio.
