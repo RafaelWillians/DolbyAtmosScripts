@@ -1,18 +1,16 @@
-# Repo Template
-Repo template, using Codespaces and GitPod
+# Dolby Atmos Scripts
 
-Template para repositórios, usando Codespaces e GitPod
+Scripts para alternar o Dolby Atmos entre dispositivos - apenas para Windows.
 
-## Extensions
-* AWS CLI
-* Microsoft PowerShell
-* Git Graph
-* Git-log
-* GitHub Actions
-* GitHub Copilot
-* GitHub Copilot Chat
-* github markdown preview
+Dolby Atmos requer licença e apenas é possível atribuir a um único canal de áudio físico. Testado com Voicemeeter e infelizmente não foi possível atribuir a ele, somente ao dispositivo de saída físico.
 
-## Extras
-Preconfigured AWS tokens (via Repository Secrets) 
+## Requisitos
+
+* Windows 10 ou superior
+* Dolby Atmos (via Microsoft Store)
+* SoundVolumeView
+* Voicemeeter Banana
+
+## Scripts - formato .BAT
+[Saída de Áudio Principal - KZ D-FI]()
 
