@@ -18,6 +18,7 @@ Caso utilizar sem VBCABLE, será necessário modificar o script.
 
 ## Configurações no Voicemeeter
 * Hardware Out: apenas CABLE Input (VBCABLE) e o CABLE Output direciona para a saída de áudio desejada com Dolby Atmos (KZ D-FI ou outro headset).
+* Stereo Input: os 3 microfones (do KZ D-FI, headset Corsair e microfone Fifine).
 
 ## Scripts - formato .BAT
 ### [Saída de Áudio Principal - KZ D-FI](./scripts/KZ-DFI.bat)
