@@ -24,3 +24,4 @@ Caso utilizar sem VBCABLE, será necessário modificar o script.
 
 ## Arquitetura do Áudio no PC
 
+![Diagrama Arquitetura Audio](./etc/arquitetura-audio.png)
