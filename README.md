@@ -1,3 +1,9 @@
+## Problema identificado - delay no áudio - atualização em breve
+
+Após meses de uso, apenas recentemente identifiquei delay no áudio usando o Voicemeeter + VB Cable, persistindo mesmo mudando os parâmetros de amostras e outras configurações. Se uso apenas Voicemeeter ou apenas VB Cable, não há delay perceptível.
+Por conta de preferir o áudio do VB Cable, irei usar apenas VB Cable de saída e Voicemeeter de entrada.
+
+
 # Dolby Atmos Scripts
 
 Scripts para alternar o Dolby Atmos entre dispositivos - apenas para Windows.
